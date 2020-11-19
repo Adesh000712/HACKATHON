@@ -1,0 +1,18 @@
+modules and libraries:
+
+1 tensorflow
+2 selenium
+3 numpy
+4 opencv
+5 pyaudio
+6 pillow
+7 playsound
+8 gTTs
+9 heartpy
+10 pandas
+11 serial
+12 pynmea2
+13 string
+14 speech_recognition
+15 argparse
+16 wolframalpha
